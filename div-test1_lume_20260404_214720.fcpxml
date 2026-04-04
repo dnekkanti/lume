@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.11">
+    <resources>
+        <format id="r1" frameDuration="100/3000s" width="1920" height="884" colorSpace="1-1-1 (Rec. 709)" />
+        <asset id="r2" name="GPWB7220" uid="4F6028ED-BD64-1A6B-B3F1-89B901FA5BD8" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/GPWB7220.MOV" duration="9000/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/GPWB7220.MOV" />
+        </asset>
+        <asset id="r3" name="IMG_2059" uid="FA09F098-677C-1A52-DCEE-816E947F79D4" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2059.MOV" duration="5800/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2059.MOV" />
+        </asset>
+        <asset id="r4" name="IMG_2063" uid="77E9AAAD-0338-7AE9-D336-1846ACC7ED5C" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2063.MOV" duration="13300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2063.MOV" />
+        </asset>
+        <asset id="r5" name="IMG_2066" uid="07BB76FF-789F-9C92-A577-DE44EFFABD8F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2066.MOV" duration="21500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2066.MOV" />
+        </asset>
+        <asset id="r6" name="IMG_2067" uid="9043EA9F-6E95-9010-EA59-7B7909681D26" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2067.MOV" duration="4300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2067.MOV" />
+        </asset>
+        <asset id="r7" name="IMG_2068" uid="2AFE37E5-1E8D-EDD9-991C-9CFC33100266" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2068.MOV" duration="8600/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2068.MOV" />
+        </asset>
+        <asset id="r8" name="IMG_2084" uid="34C49F77-113A-7F54-58DB-DE5542839906" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2084.MOV" duration="23600/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2084.MOV" />
+        </asset>
+        <asset id="r9" name="IMG_2087" uid="F9739F82-AEFF-BC77-7BD9-B331A3D52FCE" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2087.MOV" duration="20200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2087.MOV" />
+        </asset>
+        <asset id="r10" name="IMG_2095" uid="D83AC024-2B78-3012-D059-16AE4B1381E3" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2095.MOV" duration="13500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2095.MOV" />
+        </asset>
+        <asset id="r11" name="IMG_2098" uid="7D81537D-3F7D-2C25-06F9-7077E440C7DE" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2098.MOV" duration="8400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2098.MOV" />
+        </asset>
+        <asset id="r12" name="IMG_2145" uid="58DF7B95-9570-FE96-B485-D2DDB84613E7" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2145.MOV" duration="18700/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2145.MOV" />
+        </asset>
+        <asset id="r13" name="IMG_2146" uid="AD523377-38C8-DDA5-2115-9E05AA7372AF" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2146.MOV" duration="26700/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2146.MOV" />
+        </asset>
+        <asset id="r14" name="IMG_2151" uid="A63009D6-D542-821D-ACC0-6FAB1489FA9C" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2151.MOV" duration="24300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2151.MOV" />
+        </asset>
+        <asset id="r15" name="IMG_2157" uid="957ECC10-30D3-4031-4C57-B04E4B0D9007" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2157.MOV" duration="37500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2157.MOV" />
+        </asset>
+        <asset id="r16" name="IMG_2169" uid="3CF8D5E3-0D7E-17B9-8752-23130C145E88" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2169.MOV" duration="27100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2169.MOV" />
+        </asset>
+        <asset id="r17" name="IMG_2172" uid="5CC320C4-F55B-F5BE-C566-14651914E682" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2172.MOV" duration="15500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2172.MOV" />
+        </asset>
+        <asset id="r18" name="IMG_2173" uid="D4CE6665-0613-A118-0885-48F72536030D" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2173.MOV" duration="30400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2173.MOV" />
+        </asset>
+        <asset id="r19" name="IMG_2179" uid="4A552179-F28C-925D-5F5C-648B6FAA660E" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2179.MOV" duration="8100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2179.MOV" />
+        </asset>
+        <asset id="r20" name="IMG_2190" uid="29D907AA-4276-E23E-7DA6-19CAF494AAB1" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2190.MOV" duration="21000/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2190.MOV" />
+        </asset>
+        <asset id="r21" name="IMG_2194" uid="AA8B81E2-46CA-4F53-5071-B5C0AC4A2A8B" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2194.MOV" duration="12200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2194.MOV" />
+        </asset>
+        <asset id="r22" name="IMG_2195" uid="DF0008BC-3D09-6056-95A7-68CE8F4E57DB" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2195.MOV" duration="28200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2195.MOV" />
+        </asset>
+        <asset id="r23" name="IMG_2199" uid="07D2211F-1A4B-0FFE-1E38-D4F3DF65AC12" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2199.MOV" duration="20500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2199.MOV" />
+        </asset>
+        <asset id="r24" name="IMG_2201" uid="B462078A-F876-CACC-EB3F-3CB6CED80515" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2201.MOV" duration="12200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2201.MOV" />
+        </asset>
+        <asset id="r25" name="IMG_2204" uid="670AE408-9018-DFAC-8029-E991D9CFC1E4" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2204.MOV" duration="20200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2204.MOV" />
+        </asset>
+        <asset id="r26" name="IMG_2205" uid="DEF4F90C-9A4B-EC1D-8FCF-5B1C8FABEBDC" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2205.MOV" duration="13400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2205.MOV" />
+        </asset>
+        <asset id="r27" name="IMG_2206" uid="487EFA26-4B3D-C16D-1523-4D484ABC1D1F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2206.MOV" duration="26600/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2206.MOV" />
+        </asset>
+        <asset id="r28" name="IMG_2208 1" uid="B5A8F0B0-AA5C-3C19-2BA7-2F44AA4CBE73" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2208%201.MOV" duration="7300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2208%201.MOV" />
+        </asset>
+        <asset id="r29" name="IMG_2209 1" uid="6C385A32-6AEC-C225-F21E-9771FD31BD96" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2209%201.MOV" duration="9100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2209%201.MOV" />
+        </asset>
+        <asset id="r30" name="IMG_2210" uid="FDE5C657-0B1C-FFF7-D0EB-7694A9B41DEE" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2210.MOV" duration="7000/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2210.MOV" />
+        </asset>
+        <asset id="r31" name="IMG_2211" uid="5A2CFC70-3B0A-7F14-A6BE-E40CA3D9BEC9" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2211.MOV" duration="7300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2211.MOV" />
+        </asset>
+        <asset id="r32" name="IMG_2215" uid="CF10871F-284C-34BA-9D50-DDAB09841E7E" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2215.MOV" duration="10100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2215.MOV" />
+        </asset>
+        <asset id="r33" name="IMG_2216 1" uid="B8C35A1B-4648-1084-FC53-76D66A6DA72B" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2216%201.MOV" duration="22400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2216%201.MOV" />
+        </asset>
+        <asset id="r34" name="IMG_2220 1" uid="FD7477C3-F410-3201-9660-51E5962797A1" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2220%201.MOV" duration="14300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2220%201.MOV" />
+        </asset>
+        <asset id="r35" name="IMG_2222" uid="46CAC3FD-D99E-1FA1-319B-716AF04E103C" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2222.MOV" duration="8500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2222.MOV" />
+        </asset>
+        <asset id="r36" name="IMG_2225" uid="9CD7E643-B552-CC7F-EC36-F4E310967F44" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2225.MOV" duration="11500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2225.MOV" />
+        </asset>
+        <asset id="r37" name="IMG_2226" uid="67D8CD10-F251-DF78-7480-7F4B4A766238" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2226.MOV" duration="20600/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_2226.MOV" />
+        </asset>
+        <asset id="r38" name="IMG_6769" uid="172FBB8A-4BE9-5301-B7F5-27162D8D4973" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6769.MOV" duration="23800/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6769.MOV" />
+        </asset>
+        <asset id="r39" name="IMG_6797" uid="2510D10F-A92B-2D12-FB2A-7E361A7E5183" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6797.MOV" duration="58400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6797.MOV" />
+        </asset>
+        <asset id="r40" name="IMG_6827 1" uid="5849E9A9-E6C9-03DB-A1BB-B1F275FB0CCD" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6827%201.MOV" duration="36800/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6827%201.MOV" />
+        </asset>
+        <asset id="r41" name="IMG_6828" uid="38E67CC2-2002-2DF9-1849-140A7E00471F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6828.MOV" duration="39300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6828.MOV" />
+        </asset>
+        <asset id="r42" name="IMG_6831" uid="4FD322F4-DA24-8F89-C9A5-2FDE90FD3321" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6831.MOV" duration="24100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6831.MOV" />
+        </asset>
+        <asset id="r43" name="IMG_6846 1" uid="FB4F6F90-1703-3BDE-6D0E-70A2719FA882" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6846%201.MOV" duration="20300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6846%201.MOV" />
+        </asset>
+        <asset id="r44" name="IMG_6847" uid="D967B514-8036-028E-981E-0F6599940BC6" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6847.MOV" duration="16300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6847.MOV" />
+        </asset>
+        <asset id="r45" name="IMG_6863" uid="8B0A1ABF-F574-F3C6-F59C-6B0A83F12AE1" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6863.MOV" duration="38600/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_6863.MOV" />
+        </asset>
+        <asset id="r46" name="IMG_E2059" uid="FC5077E5-3EDF-6F79-4779-EE1054B9AA0F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2059.MOV" duration="5800/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2059.MOV" />
+        </asset>
+        <asset id="r47" name="IMG_E2063" uid="D5D3F67F-8C07-A221-6D66-35A84D942ECB" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2063.MOV" duration="13300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2063.MOV" />
+        </asset>
+        <asset id="r48" name="IMG_E2095" uid="CAE15400-6B54-D256-7438-F57E66DD5140" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2095.MOV" duration="13500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2095.MOV" />
+        </asset>
+        <asset id="r49" name="IMG_E2098" uid="909A655E-A1DF-DB49-4E53-7FEAE56FEC47" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2098.MOV" duration="8400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2098.MOV" />
+        </asset>
+        <asset id="r50" name="IMG_E2146" uid="26E33ED8-E7D1-14AF-308D-7F36590EFD40" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2146.MOV" duration="26700/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2146.MOV" />
+        </asset>
+        <asset id="r51" name="IMG_E2151" uid="0366B84B-3C79-B0F2-3C27-7239878F9195" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2151.MOV" duration="24300/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2151.MOV" />
+        </asset>
+        <asset id="r52" name="IMG_E2157" uid="3C6D1004-29C2-0253-B791-6163D37F4BCD" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2157.MOV" duration="37500/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2157.MOV" />
+        </asset>
+        <asset id="r53" name="IMG_E2173" uid="B8C00AEB-BAC8-A1EF-CD99-37B8056582D7" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2173.MOV" duration="30400/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2173.MOV" />
+        </asset>
+        <asset id="r54" name="IMG_E2179" uid="986FB1E8-EE69-2501-40AA-3CF838B54E0E" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2179.MOV" duration="8100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2179.MOV" />
+        </asset>
+        <asset id="r55" name="IMG_E2190" uid="610E2BEE-126B-AFC2-F70B-7EFD284CA77F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2190.MOV" duration="21000/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2190.MOV" />
+        </asset>
+        <asset id="r56" name="IMG_E2194" uid="521806F7-EB21-00C8-FA02-7339AA106E1F" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2194.MOV" duration="12200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2194.MOV" />
+        </asset>
+        <asset id="r57" name="IMG_E2195" uid="AD839274-FC72-1EC6-D04C-DB3BE504B4CC" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2195.MOV" duration="28200/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/IMG_E2195.MOV" />
+        </asset>
+        <asset id="r58" name="OZGG6801" uid="512ACC7E-628D-ADC4-490A-671925510BA1" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/OZGG6801.MOV" duration="9100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/OZGG6801.MOV" />
+        </asset>
+        <asset id="r59" name="QFVV6769" uid="57A1C72A-DA8B-FF1F-015F-F13928E29AD1" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/QFVV6769.MOV" duration="9100/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/QFVV6769.MOV" />
+        </asset>
+        <asset id="r60" name="RZLE6784" uid="05B2AC71-EEB3-EEFA-C33D-68E37A0C5784" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/RZLE6784.MOV" duration="9000/3000s" hasVideo="1" hasAudio="1" format="r1" start="0s">
+            <media-rep kind="original-media" src="file:///Users/divyanekkanti/Documents/raw_vids/2025/RZLE6784.MOV" />
+        </asset>
+        <effect id="r_lut_2" uid="FFLookUpTableEffect" name="Custom LUT" />
+    </resources>
+    <library>
+        <event name="Lume Export">
+            <project name="div-test1">
+                <sequence duration="1103100/3000s" format="r1" tcStart="0s" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+                    <spine>
+                        <asset-clip name="GPWB7220" ref="r2" offset="0/3000s" duration="9000/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2059" ref="r3" offset="9000/3000s" duration="5800/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2063" ref="r4" offset="14800/3000s" duration="13300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2066" ref="r5" offset="28100/3000s" duration="21500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2067" ref="r6" offset="49600/3000s" duration="4300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2068" ref="r7" offset="53900/3000s" duration="8600/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2084" ref="r8" offset="62500/3000s" duration="23600/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2087" ref="r9" offset="86100/3000s" duration="20200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2095" ref="r10" offset="106300/3000s" duration="13500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2098" ref="r11" offset="119800/3000s" duration="8400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2145" ref="r12" offset="128200/3000s" duration="18700/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2146" ref="r13" offset="146900/3000s" duration="26700/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2151" ref="r14" offset="173600/3000s" duration="24300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2157" ref="r15" offset="197900/3000s" duration="37500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2169" ref="r16" offset="235400/3000s" duration="27100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2172" ref="r17" offset="262500/3000s" duration="15500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2173" ref="r18" offset="278000/3000s" duration="30400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2179" ref="r19" offset="308400/3000s" duration="8100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2190" ref="r20" offset="316500/3000s" duration="21000/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2194" ref="r21" offset="337500/3000s" duration="12200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2195" ref="r22" offset="349700/3000s" duration="28200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2199" ref="r23" offset="377900/3000s" duration="20500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2201" ref="r24" offset="398400/3000s" duration="12200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2204" ref="r25" offset="410600/3000s" duration="20200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2205" ref="r26" offset="430800/3000s" duration="13400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2206" ref="r27" offset="444200/3000s" duration="26600/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2208 1" ref="r28" offset="470800/3000s" duration="7300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2209 1" ref="r29" offset="478100/3000s" duration="9100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2210" ref="r30" offset="487200/3000s" duration="7000/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2211" ref="r31" offset="494200/3000s" duration="7300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2215" ref="r32" offset="501500/3000s" duration="10100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2216 1" ref="r33" offset="511600/3000s" duration="22400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2220 1" ref="r34" offset="534000/3000s" duration="14300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2222" ref="r35" offset="548300/3000s" duration="8500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2225" ref="r36" offset="556800/3000s" duration="11500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_2226" ref="r37" offset="568300/3000s" duration="20600/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6769" ref="r38" offset="588900/3000s" duration="23800/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6797" ref="r39" offset="612700/3000s" duration="58400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6827 1" ref="r40" offset="671100/3000s" duration="36800/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6828" ref="r41" offset="707900/3000s" duration="39300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6831" ref="r42" offset="747200/3000s" duration="24100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6846 1" ref="r43" offset="771300/3000s" duration="20300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6847" ref="r44" offset="791600/3000s" duration="16300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_6863" ref="r45" offset="807900/3000s" duration="38600/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2059" ref="r46" offset="846500/3000s" duration="5800/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2063" ref="r47" offset="852300/3000s" duration="13300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2095" ref="r48" offset="865600/3000s" duration="13500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2098" ref="r49" offset="879100/3000s" duration="8400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2146" ref="r50" offset="887500/3000s" duration="26700/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2151" ref="r51" offset="914200/3000s" duration="24300/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2157" ref="r52" offset="938500/3000s" duration="37500/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2173" ref="r53" offset="976000/3000s" duration="30400/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2179" ref="r54" offset="1006400/3000s" duration="8100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2190" ref="r55" offset="1014500/3000s" duration="21000/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2194" ref="r56" offset="1035500/3000s" duration="12200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="IMG_E2195" ref="r57" offset="1047700/3000s" duration="28200/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="OZGG6801" ref="r58" offset="1075900/3000s" duration="9100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="QFVV6769" ref="r59" offset="1085000/3000s" duration="9100/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                        <asset-clip name="RZLE6784" ref="r60" offset="1094100/3000s" duration="9000/3000s" start="0s" format="r1">
+                            <filter-video ref="r_lut_2" name="Custom LUT" enabled="1">
+                                <param name="Look Up Table" key="Look Up Table">
+                                    <param name="File Path" key="File Path" value="file:///Users/divyanekkanti/lume-projects/div-test1/luts/lume_20260404_214048.cube" />
+                                </param>
+                            </filter-video>
+                        </asset-clip>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
